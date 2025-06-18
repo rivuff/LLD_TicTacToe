@@ -1,15 +1,12 @@
 package service;
 
 import model.board.Board;
-import model.board.Cell;
-import model.gamestate.GameState;
-import model.gamestate.InProgressState;
 import model.helper.Status;
 import model.helper.Symbol;
 import model.player.HumanPlayer;
 import model.player.Player;
-import model.utils.GameStateChecker;
-import model.utils.StatusChecker;
+import utils.GameStateChecker;
+import utils.StatusChecker;
 
 import java.util.LinkedList;
 import java.util.Queue;

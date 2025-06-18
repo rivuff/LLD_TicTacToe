@@ -1,4 +1,4 @@
-package model.utils;
+package utils;
 
 import model.board.Board;
 import model.board.Cell;
